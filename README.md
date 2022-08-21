@@ -1,1 +1,1 @@
-##### Movie Banner Search and Display App #####
+##### A simple app for searching and displaying movie posters #####
